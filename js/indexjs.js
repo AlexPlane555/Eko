@@ -19,3 +19,4 @@ sidebarLinks.forEach(link => {
         document.querySelector(pageId).style.display = 'block';
     });
 });
+
